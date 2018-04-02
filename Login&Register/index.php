@@ -1,5 +1,5 @@
 <?php
-require "Smarty.class.php";
+require "include/Smarty.class.php";
 require 'include/captcha.class.php';
 $index = new Smarty();
 
